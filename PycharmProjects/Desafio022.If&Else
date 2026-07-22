@@ -1,4 +1,4 @@
-#Ler um número inteiro e informar se é PAR ou ÍMPAR
+#Ler um número inteiro e informar se é PAR ou ÍMPARR
 
 numero = int(input('Digite um número inteiro: '))
 
