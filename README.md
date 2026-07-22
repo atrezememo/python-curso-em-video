@@ -1,3 +1,15 @@
-# python-curso-em-video
-Iniciei meus estudos em Python e, ao pesquisar indicações em fóruns, optei pelo curso do Guanabara.
-Aqui você pode acompanhar minha evolução na linguagem por meio da resolução dos exercícios propostos pelo professor.
+# Curso de Python 🐍
+
+Este repositório reúne minha evolução no estudo de Python.
+
+## Conteúdo
+
+- Estruturas condicionais
+- Laços de repetição
+- Funções
+- Listas
+- Tuplas
+- Dicionários
+- Projetos práticos
+
+Objetivo: desenvolver uma base sólida em Python para atuar como desenvolvedora Backend.
