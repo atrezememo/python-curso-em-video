@@ -1,5 +1,4 @@
-#Aqui vai ficar minha configuração de cores também
-#Aula inicial, sobre váriavel, entrada e saída de dados
+#Aqui vai ficar minha configuração de cores
 
 cores = {'limpa':'\033[m',
          'roxo':'\033[4:35m',
