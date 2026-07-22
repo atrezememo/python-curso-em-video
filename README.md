@@ -1,4 +1,4 @@
-# Curso de Python 🐍
+# Curso de Python
 
 Este repositório reúne minha evolução no estudo de Python.
 
